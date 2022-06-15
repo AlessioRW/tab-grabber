@@ -1,6 +1,5 @@
 # cmd-guitarTabs
-Return tabs off ultimateguitar.com from command line
+Gets chords/tabs of ultimateGuitar.com
 Requires firefox for geckodriver
 
-Pass tab or chord to return that type, else it will return mix of both
-Will not return Pro/official tabs as these require subscriptions to view
+Can save tabs to desktop as text file
